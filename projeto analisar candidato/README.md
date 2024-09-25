@@ -1,0 +1,1 @@
+Exercício basico para aprender a linguagem Java.
